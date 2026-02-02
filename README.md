@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou Emanuel Tenório
 
-<!--
-**emanuelthenorio/emanuelthenorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de tecnologia com foco em **Análise de Dados**  
+🐍 Python | Pandas | Streamlit | Plotly  
+📊 Projetos práticos com dados reais  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Atualmente estou em processo de aprendizado contínuo na área de dados, desenvolvendo projetos práticos para transformar dados em insights e dashboards interativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python
+- Pandas
+- Streamlit
+- Plotly
+- Git & GitHub
+
+## 📌 Projetos em destaque
+👉 Confira meus repositórios fixados abaixo
+
+## 🔗 Vamos nos conectar
+- LinkedIn: https://www.linkedin.com/in/emanuelthenorio/
