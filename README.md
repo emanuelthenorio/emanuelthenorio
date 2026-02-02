@@ -1,21 +1,32 @@
-# 👋 Olá, eu sou Emanuel Tenório
+# 👋 Olá, eu sou o Emanuel Tenório
 
-🎓 Estudante de tecnologia com foco em **Análise de Dados**  
-🐍 Python | Pandas | Streamlit | Plotly  
-📊 Projetos práticos com dados reais  
+🎓 Estudante de Análise de Dados  
+📍 Brazil 🇧🇷 | Apaixonado por Python e dados
 
-## 🚀 Sobre mim
-Atualmente estou em processo de aprendizado contínuo na área de dados, desenvolvendo projetos práticos para transformar dados em insights e dashboards interativos.
+Desenvolvo soluções e análises com foco em dados reais, transformando informações em visualizações e dashboards que ajudam a contar histórias e apoiar decisões.
 
-## 🛠️ Tecnologias
-- Python
-- Pandas
-- Streamlit
-- Plotly
-- Git & GitHub
+---
 
-## 📌 Projetos em destaque
-👉 Confira meus repositórios fixados abaixo
+## 💻 Tecnologias e ferramentas
 
-## 🔗 Vamos nos conectar
-- LinkedIn: https://www.linkedin.com/in/emanuelthenorio/
+🧠 **Linguagens:** Python  
+📊 **Bibliotecas:** Pandas · NumPy · Plotly · Streamlit  
+🔧 **Versionamento:** Git · GitHub
+
+---
+
+## 🚀 Principais projetos
+
+Aqui estão alguns projetos em destaque no meu GitHub:
+
+⭐ Dashboard interativo de análise de dados com Python e Streamlit  
+⭐ Projetos de estudo em Pandas e visualização de dados
+
+> 🌟 Confira meus repositórios fixados abaixo!
+
+---
+
+## 📫 Conecte-se comigo
+
+🔗 LinkedIn: https://www.linkedin.com/in/emanuelthenorio/  
+🔗 GitHub: https://github.com/emanuelthenorio
