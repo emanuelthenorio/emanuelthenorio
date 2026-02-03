@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Emanuel Tenório
+# 👋 Olá, eu sou o Emanuel Thenório
 
 🎓 Estudante de Análise de Dados  
 📍 Brazil 🇧🇷 | Apaixonado por Python e dados
